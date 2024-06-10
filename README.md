@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess026p&label=Profile%20views&color=0e75b6&style=flat" alt="jess026p" /> </p>
 
-- 🔭 I’m currently working on [WhatsApp Seguriry](https://github.com/jess026p/WhatsApp-Segurity)
+- 🔭 I’m currently working on [WhatsApp Segurity](https://github.com/jess026p/WhatsApp-Segurity)
 
 - 🌱 I’m currently learning **Procesamiento de imágenes en Python**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jessica-tituaña-b3582b272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jessi.liv.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jessi.liv.7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jessi.liv.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jessi.liv.7" height="30" width="40" /></a>
 <a href="https://instagram.com/jesin.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesin.n" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@jes4346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jes4346" height="30" width="40" /></a>
 </p>
