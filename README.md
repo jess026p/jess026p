@@ -6,11 +6,11 @@
   <title>Jessica Tituaña - Full-stack Developer</title>
 </head>
 <body>
-  <div style="text-align: center; background-color: #f0f0f0; padding: 20px;">
+<div style="text-align: center; background-color: #f0f0f0; padding: 20px;">
+    <img src="./img/Portad.png" alt="Portada" style="max-width: 100%; height: auto;">
     <h1>Portada</h1>
     <p>Esta es la portada de la página de Jessica Tituaña</p>
-  </div>
-
+</div>
   <h1 align="center">Hi 👋, I'm Jessica Tituaña</h1>
   <h3 align="center">Full-stack software developer with solid Back-end experience and a passion for Front-end development. I have extensive experience in designing and developing at</h3>
 
