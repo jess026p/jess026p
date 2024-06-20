@@ -18,6 +18,7 @@
     <li>💬 Ask me about <strong>react, ionic,node.js</strong></li>
     <li>📫 How to reach me <strong>JesiUwUr@outloook.com</strong></li>
     <li>⚡ Fun fact <strong>I think I'm very funny</strong></li>
+    <li>🤓 You can visit <strong>my web portfolio</strong>→ <a href="https://jessica-tituana.vercel.app">💻</a></li>
       
   </ul>
 
