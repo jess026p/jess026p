@@ -3,7 +3,7 @@
 
 <body>
 <div style="text-align: center; background-color: #f0f0f0; padding: 20px;">
-    <img src="./img/Portad.png" alt="Portada" style="max-width: 100%; height: auto;">
+    <img src="./img/portadaa.png" alt="Portada" style="max-width: 100%; height: auto;">
     
 </div>
   <h1 align="center">Hi 👋, I'm Jessica Tituaña</h1>
@@ -82,6 +82,54 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jess026p&show_icons=true&locale=en&layout=compact" alt="jess026p" /></p>
 
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Facturacion Electronica</h3>
+  <div align="center">
+    <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank"><img src="img/projects/EasyFact.svg" width="400" alt="EasyFact"></a> 
+    <p>
+      <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank">
+        <img src="./img/facturacion">
+      </a>
+    </p>
+    <p>Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico</p>
+  </div>                
+</td>
+
+<td width="50%">
+  <br>
+  <h3 align="center">Simulador de credito e inversiones </h3>
+  <div align="center">
+    <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank"><img src="./img/simulador.png" width="400" alt="CerTech"></a>
+    <br>
+    <p>
+      <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank">
+        <img src="./img/simulador.png">
+      </a>
+    </p>
+    <p>Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito
+    </p>
+  </div>   
+</td> 
+</table>   
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Portafolio</h3>
+  <div align="center">
+    <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank"><img src="img/projects/PlanificaFacil.png" width="400" alt="Planifica Fácil"></a>
+    <p>
+      <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank">
+        <img src="./img/portafolio.png">
+      </a>
+    </p>
+    <p>Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.</p>
+  </div>                
+</td>
+
+
+</table>   
 
 
 </body>
