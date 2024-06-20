@@ -83,51 +83,58 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jess026p&show_icons=true&locale=en&layout=compact" alt="jess026p" /></p>
 
+<div align="center">
 
-<table style="border: 2px solid #d8aefc; width: 100%; border-spacing: 20px;">
-  <tr>
-    <td>
-      <h2 align="center" style="color: #4b0082;">Facturación Electrónica</h2>
-      <div style="display: flex; align-items: center;">
-        <img src="./img/facturacion.png" alt="Facturación Electrónica" style="width: 150px; height: auto; margin-right: 20px;">
-        <div>
-          <p>Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico.</p>
-          <p align="center">
-            <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;">CODE</a>
-          </p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h2 align="center" style="color: #4b0082;">Simulador de crédito e inversiones</h2>
-      <div style="display: flex; align-items: center;">
-        <img src="./img/simulador.png" alt="Simulador de crédito e inversiones" style="width: 150px; height: auto; margin-right: 20px;">
-        <div>
-          <p>Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito.</p>
-          <p align="center">
-            <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;">CODE</a>
-          </p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h2 align="center" style="color: #4b0082;">Portafolio</h2>
-      <div style="display: flex; align-items: center;">
-        <img src="./img/portafolio.png" alt="Portafolio" style="width: 150px; height: auto; margin-right: 20px;">
-        <div>
-          <p>Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.</p>
-          <p align="center">
-            <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;">CODE</a>
-          </p>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+  <!-- Tarjeta 1 -->
+  <table width="50%" border="2" bordercolor="#d8aefc" style="border-collapse: collapse; margin-bottom: 20px;">
+    <tr>
+      <td width="25%" align="center">
+        <img src="./img/facturacion.png" alt="Facturación Electrónica" width="100">
+      </td>
+      <td>
+        <h2 style="color: #4b0082;">Facturación Electrónica</h2>
+        <p>Es un software que facilita la generación de Comprobantes Digitales a través de Internet de acuerdo con los requisitos establecidos en las leyes SRI vigentes. Al emitir una factura digital, este software las envía al destinatario por correo electrónico.</p>
+        <p>
+          <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;"><img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge" style="background-color: #800080;"></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Tarjeta 2 -->
+  <table width="80%" border="2" bordercolor="#d8aefc" style="border-collapse: collapse; margin-bottom: 20px;">
+    <tr>
+      <td width="25%" align="center">
+        <img src="./img/portafolio.png" alt="Portafolio" width="100px">
+      </td>
+      <td>
+        <h2 style="color: #4b0082;">Portafolio</h2>
+        <p>Diseño web Adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral, comprende módulos como: About-me, proyectos, experiencia, habilidades y un formulario de contacto.</p>
+        <p>
+          <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;"><img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge" style="background-color: #800080;">
+</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Tarjeta 3 -->
+  <table width="80%" border="2" bordercolor="#d8aefc" style="border-collapse: collapse;">
+    <tr>
+      <td width="25%" align="center">
+        <img src="./img/simulador.png" alt="Simulador de Crédito e Inversiones" width="100">
+      </td>
+      <td>
+        <h2 style="color: #4b0082;">Simulador de Crédito e Inversiones</h2>
+        <p>Este sistema calcula las cuotas y rentabilidad del crédito o inversión según el método alemán o francés, también cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito.</p>
+        <p>
+          <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;"><img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Badge" style="background-color: #800080;"></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 </body>
