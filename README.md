@@ -1,34 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-  .project-card {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-  }
-  .project-card img {
-    width: 150px;
-    height: auto;
-    margin-right: 20px;
-  }
-  .project-card .text-content {
-    flex: 1;
-  }
-  .code-button {
-    display: inline-block;
-    border: 2px solid #d8aefc;
-    border-radius: 20px;
-    background-color: #d8aefc;
-    padding: 10px 20px;
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-  }
-  .code-button:hover {
-    background-color: #c78efb;
-    border-color: #c78efb;
-  }
-</style>
+
 
 <body>
 <div style="text-align: center; background-color: #f0f0f0; padding: 20px;">
@@ -113,54 +85,18 @@
 
 
 
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-
-  td {
-    vertical-align: top;
-    padding: 10px;
-  }
-
-  .project-card p {
-    margin: 10px 0;
-  }
-</>
-
 <table>
   <tr>
-    <td width="50%">
-      <div class="project-card">
-        <img src="./img/facturacion.png" alt="Facturación Electrónica">
-        <div class="text-content">
-          <h3 align="center">Facturación Electrónica</h3>
-          <p>
-            Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico.
-          </p>
+    <td>
+      <h3 align="center">Facturación Electrónica</h3>
+      <div style="display: flex; align-items: center;">
+        <img src="./img/facturacion.png" alt="Facturación Electrónica" style="width: 150px; height: auto; margin-right: 20px;">
+        <div>
+          <p>Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico.</p>
           <p align="center">
-            <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank" class="code-button">
-              CODE
-            </a>
+            <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;">CODE</a>
           </p>
-        </div>                
-      </div>
-    </td>
-
-    <td width="50%">
-      <div class="project-card">
-        <img src="./img/simulador.png" alt="Simulador de crédito e inversiones">
-        <div class="text-content">
-          <h3 align="center">Simulador de crédito e inversiones</h3>
-          <p>
-            Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito.
-          </p>
-          <p align="center">
-            <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank" class="code-button">
-              CODE
-            </a>
-          </p>
-        </div>   
+        </div>
       </div>
     </td>
   </tr>
@@ -168,25 +104,37 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <div class="project-card">
-        <img src="./img/portafolio.png" alt="Portafolio">
-        <div class="text-content">
-          <h3 align="center">Portafolio</h3>
-          <p>
-            Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.
-          </p>
+    <td>
+      <h3 align="center">Simulador de crédito e inversiones</h3>
+      <div style="display: flex; align-items: center;">
+        <img src="./img/simulador.png" alt="Simulador de crédito e inversiones" style="width: 150px; height: auto; margin-right: 20px;">
+        <div>
+          <p>Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito.</p>
           <p align="center">
-            <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank" class="code-button">
-              CODE
-            </a>
+            <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;">CODE</a>
           </p>
-        </div>                
+        </div>
       </div>
     </td>
   </tr>
-</table> 
+</table>
 
+<table>
+  <tr>
+    <td>
+      <h3 align="center">Portafolio</h3>
+      <div style="display: flex; align-items: center;">
+        <img src="./img/portafolio.png" alt="Portafolio" style="width: 150px; height: auto; margin-right: 20px;">
+        <div>
+          <p>Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.</p>
+          <p align="center">
+            <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank" style="display: inline-block; border: 2px solid #d8aefc; border-radius: 20px; background-color: #d8aefc; padding: 10px 20px; text-decoration: none; color: black; font-weight: bold;">CODE</a>
+          </p>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </body>
 </html>
