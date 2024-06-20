@@ -80,7 +80,6 @@
 </td> 
 
 <td>
-<h3 align="left">Framework frontend:</h3>
 <table border="1">
   <thead>
     <tr>
@@ -134,10 +133,6 @@
 <tr>
       <td align="center"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">SQL Server</a></td>
       <td align="center"><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">MySQL Workbench</a></td>
-      <td align="center"><img src="https://th.bing.com/th/id/OIP.YJH3LLGIIb6rHUrHA0KRkQHaHa?rs=1&pid=ImgDetMain" alt="MySQL Workbench" width="40" height="40"/></td>
     </tr>
   </tbody>
 </table>
