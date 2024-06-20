@@ -142,6 +142,29 @@
     </tr>
   </tbody>
 </table>
+<h3 align="center">Lenguajes de Programación:</h3>
+<table align="center" border="1">
+  <thead>
+    <tr>
+      <th align="center">Lenguaje</th>
+      <th align="center">Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">TypeScript</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.javascript.com/" target="_blank" rel="noreferrer">JavaScript</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.php.net/" target="_blank" rel="noreferrer">PHP</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
