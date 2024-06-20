@@ -8,82 +8,162 @@
     
 </div>
   <h1 align="center">Hi 👋, I'm Jessica Tituaña</h1>
-  <h3 align="center">Full-stack software developer with solid Back-end experience and a passion for Front-end development. I have extensive experience in designing and developing at</h3>
+  <h3 align="center">Full-stack software developer with solid Back-end experience and a passion for Front-end development. I have extensive experience in designing and developing </h3>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess026p&label=Profile%20views&color=0e75b6&style=flat" alt="jess026p" /> </p>
 
   <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/jess026p/WhatsApp-Segurity">WhatsApp Segurity</a></li>
-    <li>🌱 I’m currently learning <strong>Procesamiento de imágenes en Python</strong></li>
-    <li>👯 I’m looking to collaborate on <a href="https://github.com/jess026p/FacturacionElectronica2.0">FacturacionElectronica2.0</a></li>
+   <li>👯 I’m looking to collaborate on <a href="https://github.com/jess026p/FacturacionElectronica2.0">FacturacionElectronica2.0</a></li>
     <li>📝 I regularly write articles on <a href="https://ciencialatina.org/index.php/cienciala/article/view/11290">ciencialatina.org</a></li>
     <li>💬 Ask me about <strong>react, ionic,node.js</strong></li>
     <li>📫 How to reach me <strong>JesiUwUr@outloook.com</strong></li>
     <li>⚡ Fun fact <strong>I think I'm very funny</strong></li>
+      
   </ul>
 
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/jessi.liv.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jessi.liv.7" height="30" width="40" /></a>
     <a href="https://instagram.com/jesin.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesin.n" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/@jes4346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jes4346" height="30" width="40" /></a>
-  </p>
+  <!--frameworks-->
+ <table>
+<tr>
+<td width="50%">
+      <h3 align="left">Framework:</h3>
+  <table border="1">
+  <thead>
+    <tr>
+      <th align="center">Framework</th>
+      <th align="center">Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://angular.io" target="_blank" rel="noreferrer">Angular</a></td>
+      <td align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://ionicframework.com" target="_blank" rel="noreferrer">Ionic</a></td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/></td>
+    </tr>
+    <!-- Agregar más frameworks web si es necesario -->
+  </tbody>
+</table>
+            
+</td>
 
- <!-- Categoría: ID -->
-<h3 align="left">Stack:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <!-- Otros enlaces relacionados con IDs -->
-</p>
+<td width="50%">
+  <br>
+<table border="1">
+  <thead>
+    <tr>
+      <th align="center">Entorno de Ejecución</th>
+      <th align="center">Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://nodejs.org/" target="_blank" rel="noreferrer">Node.js</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer">Next.js</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></td>
+    </tr>
+  </tbody>
+</table>
+   
+</td> 
 
-<!-- Categoría: Frameworks -->
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <!-- Otros enlaces relacionados con frameworks -->
-</p>
+<td>
+<h3 align="left">Framework frontend:</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th align="center">Framework</th>
+      <th align="center">Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer">Bootstrap</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://material-ui.com/" target="_blank" rel="noreferrer">Material-UI</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">Tailwind CSS</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/></td>
+    </tr>
+  </tbody>
+</table>    
+</td>
+</table>   
+  
 
-<!-- Categoría: Base de Datos -->
-<h3 align="left">Data base:</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- Otros enlaces relacionados con bases de datos -->
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jess026p&show_icons=true&locale=en&layout=compact" alt="jess026p" /></p>
+
+
+
+
+
+
+<h3 align="center">Data base:</h3>
+<table align="center" border="1">
+  <thead>
+    <tr>
+      <th align="center">Base de Datos</th>
+      <th align="center">Logo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">MongoDB</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">MySQL</a></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
+    </tr>
+<tr>
+      <td align="center"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">SQL Server</a></td>
+      <td align="center"><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">MySQL Workbench</a></td>
+      <td align="center"><img src="https://th.bing.com/th/id/OIP.YJH3LLGIIb6rHUrHA0KRkQHaHa?rs=1&pid=ImgDetMain" alt="MySQL Workbench" width="40" height="40"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
+<table>
+<td>
+    <p align="left">
+<a href="https://github.com/jess026p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jess026p&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jess026p&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+</td>
+    <td>
+        
+![Jessica Github stats](https://github-readme-stats.vercel.app/api?username=jess026p&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+
+</p>
+    </td>
+</table>
+
+
+ <h1 align="center">My proyects </h1>
 <div align="center">
 
   <!-- Tarjeta 1 -->
