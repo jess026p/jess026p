@@ -171,7 +171,7 @@
   <table width="50%" border="2" bordercolor="#d8aefc" style="border-collapse: collapse; margin-bottom: 20px;">
     <tr>
       <td width="25%" align="center">
-        <img src="./img/facturacion.png" alt="Facturación Electrónica" width="100">
+        <img src="./img/f.png" alt="Facturación Electrónica" width="100">
       </td>
       <td>
         <h2 style="color: #4b0082;">Facturación Electrónica</h2>
@@ -187,7 +187,7 @@
   <table width="80%" border="2" bordercolor="#d8aefc" style="border-collapse: collapse; margin-bottom: 20px;">
     <tr>
       <td width="25%" align="center">
-        <img src="./img/portafolio.png" alt="Portafolio" width="100px">
+        <img src="./img/p.png" alt="Portafolio" width="100px">
       </td>
       <td>
         <h2 style="color: #4b0082;">Portafolio</h2>
@@ -204,7 +204,7 @@
   <table width="80%" border="2" bordercolor="#d8aefc" style="border-collapse: collapse;">
     <tr>
       <td width="25%" align="center">
-        <img src="./img/simulador.png" alt="Simulador de Crédito e Inversiones" width="100">
+        <img src="./img/s.png" alt="Simulador de Crédito e Inversiones" width="100">
       </td>
       <td>
         <h2 style="color: #4b0082;">Simulador de Crédito e Inversiones</h2>
