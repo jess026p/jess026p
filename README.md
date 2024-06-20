@@ -90,7 +90,7 @@
     <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank"><img src="./img/facturacion.png" width="400" alt="fact"></a> 
     <p>
       <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank">
-        <img src="./img/facturacion.png">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico</p>
@@ -105,7 +105,7 @@
     <br>
     <p>
       <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank">
-        <img src="./img/simulador.png">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito
@@ -121,7 +121,7 @@
     <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank"><img src="img/projects/PlanificaFacil.png" width="400" alt="Planifica Fácil"></a>
     <p>
       <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank">
-        <img src="./img/portafolio.png">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.</p>
