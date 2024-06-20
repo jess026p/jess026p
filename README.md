@@ -84,7 +84,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jess026p&show_icons=true&locale=en&layout=compact" alt="jess026p" /></p>
 
 
-<table style="border: 2px solid #d8aefc; margin-bottom: 20px;">
+<table style="border: 2px solid #d8aefc; width: 100%; border-spacing: 20px;">
   <tr>
     <td>
       <h2 align="center" style="color: #4b0082;">Facturación Electrónica</h2>
@@ -99,9 +99,6 @@
       </div>
     </td>
   </tr>
-</table>
-
-<table style="border: 2px solid #d8aefc; margin-bottom: 20px;">
   <tr>
     <td>
       <h2 align="center" style="color: #4b0082;">Simulador de crédito e inversiones</h2>
@@ -116,9 +113,6 @@
       </div>
     </td>
   </tr>
-</table>
-
-<table style="border: 2px solid #d8aefc; margin-bottom: 20px;">
   <tr>
     <td>
       <h2 align="center" style="color: #4b0082;">Portafolio</h2>
