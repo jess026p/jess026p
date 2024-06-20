@@ -25,17 +25,14 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jessica-tituaña-b3582b272/" height="30" width="40" /></a>
     <a href="https://instagram.com/jesin.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesin.n" height="30" width="40" /></a>
-  <!--frameworks-->
+ <h3 align="left">Framework and Tecnologic:</h3>
  <table>
 <tr>
 <td width="50%">
-      <h3 align="left">Framework:</h3>
+     
   <table border="1">
   <thead>
-    <tr>
-      <th align="center">Framework</th>
-      <th align="center">Logo</th>
-    </tr>
+   
   </thead>
   <tbody>
     <tr>
@@ -60,10 +57,7 @@
   <br>
 <table border="1">
   <thead>
-    <tr>
-      <th align="center">Entorno de Ejecución</th>
-      <th align="center">Logo</th>
-    </tr>
+
   </thead>
   <tbody>
     <tr>
@@ -82,10 +76,7 @@
 <td>
 <table border="1">
   <thead>
-    <tr>
-      <th align="center">Framework</th>
-      <th align="center">Logo</th>
-    </tr>
+    
   </thead>
   <tbody>
     <tr>
