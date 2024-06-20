@@ -84,11 +84,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jess026p&show_icons=true&locale=en&layout=compact" alt="jess026p" /></p>
 
 
-
-<table>
+<table style="border: 2px solid #d8aefc; margin-bottom: 20px;">
   <tr>
     <td>
-      <h3 align="center">Facturación Electrónica</h3>
+      <h2 align="center" style="color: #4b0082;">Facturación Electrónica</h2>
       <div style="display: flex; align-items: center;">
         <img src="./img/facturacion.png" alt="Facturación Electrónica" style="width: 150px; height: auto; margin-right: 20px;">
         <div>
@@ -102,10 +101,10 @@
   </tr>
 </table>
 
-<table>
+<table style="border: 2px solid #d8aefc; margin-bottom: 20px;">
   <tr>
     <td>
-      <h3 align="center">Simulador de crédito e inversiones</h3>
+      <h2 align="center" style="color: #4b0082;">Simulador de crédito e inversiones</h2>
       <div style="display: flex; align-items: center;">
         <img src="./img/simulador.png" alt="Simulador de crédito e inversiones" style="width: 150px; height: auto; margin-right: 20px;">
         <div>
@@ -119,10 +118,10 @@
   </tr>
 </table>
 
-<table>
+<table style="border: 2px solid #d8aefc; margin-bottom: 20px;">
   <tr>
     <td>
-      <h3 align="center">Portafolio</h3>
+      <h2 align="center" style="color: #4b0082;">Portafolio</h2>
       <div style="display: flex; align-items: center;">
         <img src="./img/portafolio.png" alt="Portafolio" style="width: 150px; height: auto; margin-right: 20px;">
         <div>
@@ -135,6 +134,7 @@
     </td>
   </tr>
 </table>
+
 
 </body>
 </html>
