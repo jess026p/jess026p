@@ -87,10 +87,10 @@
 <td width="50%">
   <h3 align="center">Facturacion Electronica</h3>
   <div align="center">
-    <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank"><img src="img/projects/EasyFact.svg" width="400" alt="EasyFact"></a> 
+    <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank"><img src="./img/facturacion.png" width="400" alt="fact"></a> 
     <p>
       <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank">
-        <img src="./img/facturacion">
+        <img src="./img/facturacion.png">
       </a>
     </p>
     <p>Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico</p>
