@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <style>
   .project-card {
-    width: 100%;
-    max-width: 400px;
-    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
   }
-  
   .project-card img {
-    width: 100%;
+    width: 150px;
     height: auto;
+    margin-right: 20px;
   }
-
-  .project-card .code-button {
+  .project-card .text-content {
+    flex: 1;
+  }
+  .code-button {
     display: inline-block;
+    border: 2px solid #d8aefc;
     border-radius: 20px;
     background-color: #d8aefc;
     padding: 10px 20px;
@@ -22,25 +24,12 @@
     color: black;
     font-weight: bold;
   }
-
-  .project-card .code-button:hover {
+  .code-button:hover {
     background-color: #c78efb;
-  }
-
-  table {
-    width: 100%;
-    table-layout: fixed;
-  }
-
-  td {
-    vertical-align: top;
-    padding: 10px;
-  }
-
-  .project-card p {
-    text-align: center;
+    border-color: #c78efb;
   }
 </style>
+
 <body>
 <div style="text-align: center; background-color: #f0f0f0; padding: 20px;">
     <img src="./img/portadaa.png" alt="Portada" style="max-width: 100%; height: auto;">
@@ -122,22 +111,37 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jess026p&show_icons=true&locale=en&layout=compact" alt="jess026p" /></p>
 
+
+
+  table {
+    width: 100%;
+    table-layout: fixed;
+  }
+
+  td {
+    vertical-align: top;
+    padding: 10px;
+  }
+
+  .project-card p {
+    margin: 10px 0;
+  }
+</>
+
 <table>
   <tr>
     <td width="50%">
       <div class="project-card">
-        <h3 align="center">Facturación Electrónica</h3>
-        <div align="center">
-          <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank">
-            <img src="./img/facturacion.png" alt="Facturación Electrónica">
-          </a> 
+        <img src="./img/facturacion.png" alt="Facturación Electrónica">
+        <div class="text-content">
+          <h3 align="center">Facturación Electrónica</h3>
           <p>
+            Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico.
+          </p>
+          <p align="center">
             <a href="https://github.com/jess026p/FacturacionElectronica2.0" target="_blank" class="code-button">
               CODE
             </a>
-          </p>
-          <p>
-            Es un software que facilita la generación de comprobantes digitales a través de internet de acuerdo con los requisitos establecidos en las leyes del SRI vigentes. Al emitir una factura digital, este software la envía al destinatario por correo electrónico.
           </p>
         </div>                
       </div>
@@ -145,18 +149,16 @@
 
     <td width="50%">
       <div class="project-card">
-        <h3 align="center">Simulador de crédito e inversiones</h3>
-        <div align="center">
-          <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank">
-            <img src="./img/simulador.png" alt="Simulador de crédito e inversiones">
-          </a>
+        <img src="./img/simulador.png" alt="Simulador de crédito e inversiones">
+        <div class="text-content">
+          <h3 align="center">Simulador de crédito e inversiones</h3>
           <p>
+            Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito.
+          </p>
+          <p align="center">
             <a href="https://github.com/jeanpgr/simulador-creditos-inversiones" target="_blank" class="code-button">
               CODE
             </a>
-          </p>
-          <p>
-            Este sistema calcula las cuotas y la rentabilidad del crédito o inversión según el método alemán o francés. También cuenta con administración de perfiles de usuarios para empresas, además de configurar el tipo de crédito y agregar cargos indirectos al crédito.
           </p>
         </div>   
       </div>
@@ -168,24 +170,22 @@
   <tr>
     <td width="50%">
       <div class="project-card">
-        <h3 align="center">Portafolio</h3>
-        <div align="center">
-          <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank">
-            <img src="./img/portafolio.png" alt="Portafolio">
-          </a>
+        <img src="./img/portafolio.png" alt="Portafolio">
+        <div class="text-content">
+          <h3 align="center">Portafolio</h3>
           <p>
+            Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.
+          </p>
+          <p align="center">
             <a href="https://github.com/jess026p/Portafolio2.0-" target="_blank" class="code-button">
               CODE
             </a>
-          </p>
-          <p>
-            Diseño web adaptativo, para dispositivos web y móviles, contiene la carta de presentación para incorporarme en el mundo laboral. Comprende módulos como: About me, proyectos, experiencia, habilidades y un formulario de contacto.
           </p>
         </div>                
       </div>
     </td>
   </tr>
-</table>   
+</table> 
 
 
 </body>
