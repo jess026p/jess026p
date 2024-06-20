@@ -10,8 +10,7 @@
   <h1 align="center">Hi 👋, I'm Jessica Tituaña</h1>
   <h3 align="center">Full-stack software developer with solid Back-end experience and a passion for Front-end development. I have extensive experience in designing and developing </h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jess026p&label=Profile%20views&color=0e75b6&style=flat" alt="jess026p" /> </p>
-
+  
   <ul>
    <li>👯 I’m looking to collaborate on <a href="https://github.com/jess026p/FacturacionElectronica2.0">FacturacionElectronica2.0</a></li>
     <li>📝 I regularly write articles on <a href="https://ciencialatina.org/index.php/cienciala/article/view/11290">ciencialatina.org</a></li>
